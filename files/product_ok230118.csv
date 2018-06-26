@@ -1,0 +1,80 @@
+﻿Code	Name	Name KH	Category Code	Unit ID	Cost	Price	Alert Quantity	 Tax Rate Name	Tax Method	Subcategory Code	Product Variants Separated by |	Supplier1(No)	Supplier2(No)	Supplier3(No)	Supplier4(No)	Supplier5(No)	Custom Field 1	Custom Field 2	Custom Field 3	Custom Field 4	Custom Field 5	Custom Field 6	Image	Type(standard or service)
+ SY170801A14	CREAM 0.21X1200 		475	2	0	1.05	0	 No Tax	 exclusive		kg=0.526315789473684_1.05|m=1_1.995												no_image.png	standard
+24110	CREAM 0.26X1200		475	2	0	1.03	0	 No Tax	 exclusive		kg=0.434782608695652_1.03|m=1_2.369												no_image.png	standard
+FHA17091824	CREAM 0.21X1200 		475	2	0	1.05	0	 No Tax	 exclusive		kg=0.526315789473684_1.05|m=1_1.995												no_image.png	standard
+YT170729B09B	CREAM 0.31X1200		475	2	0	1	0	 No Tax	 exclusive		kg=0.357142857142857_1|m=1_2.8												no_image.png	standard
+FHC17090127A	CREAM 0.36X1200		475	2	0	1	0	 No Tax	 exclusive		kg=0.303030303030303_1|m=1_3.3												no_image.png	standard
+2170725-80B	CREAM 0.47X1200		475	2	0	0.95	0	 No Tax	 exclusive		kg=0.222222222222222_0.95|m=1_4.275												no_image.png	standard
+2170725-02B	CREAM 0.47X1200		475	2	0	0.95	0	 No Tax	 exclusive		kg=0.222222222222222_0.95|m=1_4.275												no_image.png	standard
+2170725-78B	CREAM 0.47X1201		475	2	0	1.05	0	 No Tax	 exclusive		kg=0.222222222222222_1.05|m=1_4.725												no_image.png	standard
+LF170630A11A	CREAM O.21X0.914		475	2	0	1.05	0	 No Tax	 exclusive		kg=0.666666666666667_1.05|m=1_1.575												no_image.png	standard
+LF170630A10A	CREAM O.21X0.914		475	2	0	1.05	0	 No Tax	 exclusive		kg=0.666666666666667_1.05|m=1_1.575												no_image.png	standard
+FHB17081539B	WHITE 0.36X1200		695	2	0	1	0	 No Tax	 exclusive		kg=0.303030303030303_1|m=1_3.3												no_image.png	standard
+FHB17081522A(B24)	BLUE 0.21X1200		640	2	0	1.05	0	 No Tax	 exclusive		kg=0.526315789473684_1.05|m=1_1.995												no_image.png	standard
+FHB17083037A	BLUE 0.26X1200		640	2	0	1.03	0	 No Tax	 exclusive		kg=0.434782608695652_1.03|m=1_2.369												no_image.png	standard
+YT170725B18	BLUE 0.31X1200		640	2	0	1	0	 No Tax	 exclusive		kg=0.357142857142857_1|m=1_2.8												no_image.png	standard
+FHC1709B	BLUE 0.36X1200		640	2	0	1	0	 No Tax	 exclusive		kg=0.303030303030303_1|m=1_3.3												no_image.png	standard
+00001ABC-A89	BLUE 0.25X1000		640	2	0	1.05	0	 No Tax	 exclusive		kg=0.512820512820513_1.05|m=1_2.0475												no_image.png	standard
+RT2017061507-2	BLUE 0.47X1000		640	2	0	1	0	 No Tax	 exclusive		kg=0.285714285714286_1|m=1_3.5												no_image.png	standard
+RT2017061508-2	BLUE 0.47X1000		640	2	0	1	0	 No Tax	 exclusive		kg=0.285714285714286_1|m=1_3.5												no_image.png	standard
+RT2017061603-2	BLUE 0.47X1000		640	2	0	1	0	 No Tax	 exclusive		kg=0.285714285714286_1|m=1_3.5												no_image.png	standard
+WB170813A09                                         	RED  0.21X1200		285	2	0	1.05	0	 No Tax	 exclusive		kg=0.526315789473684_1.05|m=1_1.995												no_image.png	standard
+7883	RED 0.26X1200		285	2	0	1.03	0	 No Tax	 exclusive		kg=0.434782608695652_1.03|m=1_2.369												no_image.png	standard
+YT170728A17B	RED 0.31X1200		285	2	0	1	0	 No Tax	 exclusive		kg=0.357142857142857_1|m=1_2.8												no_image.png	standard
+1331	RED 0.36x1200		285	2	0	1	0	 No Tax	 exclusive		kg=0.303030303030303_1|m=1_3.3												no_image.png	standard
+2170705-51	WING 0.21X1200		222	2	0	1.02	0	 No Tax	 exclusive		kg=0.555555555555556_1.02|m=1_1.836												no_image.png	standard
+2170705-52	WING 0.21X1200		222	2	0	1.02	0	 No Tax	 exclusive		kg=0.555555555555556_1.02|m=1_1.836												no_image.png	standard
+2170705-53	WING 0.21X1200		222	2	0	1.02	0	 No Tax	 exclusive		kg=0.555555555555556_1.02|m=1_1.836												no_image.png	standard
+ASPR1709998-1.3	GL 0.3X1200		3GL	2	0	0.99	0	 No Tax	 exclusive		kg=0.350877192982456_0.99|m=1_2.8215												no_image.png	standard
+ASPR1709998-1.2	GL 0.3X1200		3GL	2	0	0.99	0	 No Tax	 exclusive		kg=0.350877192982456_0.99|m=1_2.8215												no_image.png	standard
+1505216626	GL 0.4X1220		4GL	2	0	0.95	0	 No Tax	 exclusive		kg=0.277777777777778_0.95|m=1_3.42												no_image.png	standard
+HDP600B28101	GL 0.6X1200		6GL	2	0	0.95	0	 No Tax	 exclusive		kg=0.175438596491228_0.95|m=1_5.415												no_image.png	standard
+HDL35J233	GL 0.35X0.9		35GL	2	0	0.9	0	 No Tax	 exclusive		kg=0.416666666666667_0.9|m=1_2.16												no_image.png	standard
+PHD1608273/4	GI 0.4X1250		4GI	2	0	1	0	 No Tax	 exclusive		kg=0.266666666666667_1|m=1_3.75												no_image.png	standard
+PHD1662636/4	GI 0.47X1250		47GI	2	0	1	0	 No Tax	 exclusive		kg=0.222222222222222_1|m=1_4.5												no_image.png	standard
+PHD1620350/2	GI 0.5X1220		5GI	2	0	1	0	 No Tax	 exclusive		kg=0.212765957446809_1|m=1_4.7												no_image.png	standard
+PHD1620350/3	GI 0.5X1220		5GI	2	0	1	0	 No Tax	 exclusive		kg=0.212765957446809_1|m=1_4.7												no_image.png	standard
+PHD1620519/4	GI 0.6X1220		6GI	2	0	0.97	0	 No Tax	 exclusive		kg=0.175438596491228_0.97|m=1_5.529												no_image.png	standard
+PHD166206/2	GI 0.7X1250		7GI	2	0	9.5	0	 No Tax	 exclusive		kg=0.149253731343284_9.5|m=1_63.65												no_image.png	standard
+PHD1662236/4	GI 0.7X1250		7GI	2	0	0.95	0	 No Tax	 exclusive		kg=0.149253731343284_0.95|m=1_6.365												no_image.png	standard
+PHD1624207/1	GI 0.7X1250		7GI	2	0	0.95	0	 No Tax	 exclusive		kg=0.149253731343284_0.95|m=1_6.365												no_image.png	standard
+XH170807	GI 0.7X1250		7GI	2	0	0.95	0	 No Tax	 exclusive		kg=0.149253731343284_0.95|m=1_6.365												no_image.png	standard
+XH170802(0.75)	GI 0.75X1250		7.5GI	2	0	0.95	0	 No Tax	 exclusive		kg=0.138888888888889_0.95|m=1_6.84												no_image.png	standard
+00009A	0.85X1250		8.5GI	2	0	0.85	0	 No Tax	 exclusive		kg=0.121951219512195_0.85|m=1_6.97												no_image.png	standard
+PHD1663482/3	GI 1X1250		1LGI	2	0	0.93	0	 No Tax	 exclusive		kg=0.104166666666667_0.93|m=1_8.928												no_image.png	standard
+PHD1662600/5	GI 1X1250		1LGI	2	0	0.93	0	 No Tax	 exclusive		kg=0.104166666666667_0.93|m=1_8.928												no_image.png	standard
+PHD1655475/3	GI 1X1250		1LGI	2	0	0.93	0	 No Tax	 exclusive		kg=0.104166666666667_0.93|m=1_8.928												no_image.png	standard
+PHD1643855/3	GI 1.2X122		1.2LGI	2	0	0.93	0	 No Tax	 exclusive		kg=0.0884955752212389_0.93|m=1_10.509												no_image.png	standard
+XH1708021(1.22)	GI 1.2X122		1.2LGI	2	0	0.93	0	 No Tax	 exclusive		kg=0.0884955752212389_0.93|m=1_10.509												no_image.png	standard
+XH170802(1.21)	GI 1.2X122		1.2LGI	2	0	0.93	0	 No Tax	 exclusive		kg=0.0884955752212389_0.93|m=1_10.509												no_image.png	standard
+PHD1601533/3	GI 1.5X122		1.5LGI	2	0	0.93	0	 No Tax	 exclusive		kg=0.0699300699300699_0.93|m=1_13.299												no_image.png	standard
+1717830	GI 2.15X1200		2.15LGI	2	0	0.9	0	 No Tax	 exclusive		kg=0.0497512437810945_0.9|m=1_18.09												no_image.png	standard
+HY13201-2018	GI 015X1000		1.5DI	2	0	0.95	0	 No Tax	 exclusive		kg=0.884955752212389_0.95|m=1_1.0735												no_image.png	standard
+HY13201-2017	GI 0.15X1000		1.2GI	2	0	0.95	0	 No Tax	 exclusive		kg=0.884955752212389_0.95|m=1_1.0735												no_image.png	standard
+PHD1650999/3	GI 0.25X1000		2.5GI	2	0	0.95	0	 No Tax	 exclusive		kg=0.5_0.95|m=1_1.9												no_image.png	standard
+PHD1170111-2	GI 0.23X1000		2.3GI	2	0	1	0	 No Tax	 exclusive		kg=0.526315789473684_1|m=1_1.9												no_image.png	standard
+PHD1658437/4	GI 0.55X1000		5.5GI	2	0	0.85	0	 No Tax	 exclusive		kg=0.25_0.85|m=1_3.4												no_image.png	standard
+PHD1658518/1	GI 0.6X1000		6GI	2	0	0.88	0	 No Tax	 exclusive		kg=0.225225225225225_0.88|m=1_3.9072												no_image.png	standard
+XH170807(0.75)	GI 0.75X1000		7.5GI	2	0	0.95	0	 No Tax	 exclusive		kg=0.172413793103448_0.95|m=1_5.51												no_image.png	standard
+PHD1624906/1	GI 1X1000		1LGI	2	0	0.95	0	 No Tax	 exclusive		kg=0.131578947368421_0.95|m=1_7.22												no_image.png	standard
+00006A	GI 1.2X1000		1.2LGI	2	0	0.9	0	 No Tax	 exclusive		kg=0.108695652173913_0.9|m=1_8.28												no_image.png	standard
+YT16C009680	0.6X1650		6CR	2	0	1.2	0	 No Tax	 exclusive		kg=0.108695652173913_1.2|m=1_11.04												no_image.png	standard
+Y16C009680	0.6X1650		6CR	2	0	1.2	0	 No Tax	 exclusive		kg=0.108695652173913_1.2|m=1_11.04												no_image.png	standard
+000011A	0.8X1500		8CR	2	0	0.9	0	 No Tax	 exclusive		kg=0.106269925611052_0.9|m=1_8.469												no_image.png	standard
+0000112X1760	1.2X1760		1.2CR	2	0	1.4	0	 No Tax	 exclusive		kg=0.0603864734299517_1.4|m=1_23.184												no_image.png	standard
+1.2X1760X3500	1.2X1760		1.2CR	2	0	1.4	0	 No Tax	 exclusive		kg=0.0603864734299517_1.4|m=1_23.184												no_image.png	standard
+000014X1660	1.4X1660		1.4CR	2	0	1.4	0	 No Tax	 exclusive		kg=0.0526315789473684_1.4|m=1_26.6												no_image.png	standard
+1.4X1660X3500	1.4X1660		1.4CR	2	0	1.4	0	 No Tax	 exclusive		kg=0.0516795865633075_1.4|m=1_27.09												no_image.png	standard
+A-5567-1	AL 0.33X1000		3.3AL	2	0	2.9	0	 No Tax	 exclusive		kg=0.413223140495868_2.9|m=1_7.018												no_image.png	standard
+A-15277-4	AL 0.75X1000		7.5AL	2	0	2.9	0	 No Tax	 exclusive		kg=0.5_2.9|m=1_5.8												no_image.png	standard
+A-15277-1	AL 0.95X1000		9.5CL	2	0	2.9	0	 No Tax	 exclusive		kg=0.4_2.9|m=1_7.25												no_image.png	standard
+48380	INOX 0.3X1250		3INOX	2	0	2.4	0	 No Tax	 exclusive		kg=0.333333333333333_2.4|m=1_7.2												no_image.png	standard
+XH1701094	INOX 0.3X1220		3INOX	2	0	2.65	0	 No Tax	 exclusive		kg=0.333333333333333_2.65|m=1_7.95												no_image.png	standard
+XH170608-SS2	INOX 0.4X1220		4INOX	2	0	2.5	0	 No Tax	 exclusive		kg=0.25_2.5|m=1_10												no_image.png	standard
+XH170608-2.SS1	INOX 0.5X1220		5INOX	2	0	2.5	0	 No Tax	 exclusive		kg=0.2_2.5|m=1_12.5												no_image.png	standard
+9A	 Small Handle 		SMH	1	0	0	0	 No Tax	 exclusive														no_image.png	standard
+9B	Big Handle 		BH	1	0	0	0	 No Tax	 exclusive														no_image.png	standard
+9C	Small key		SMK	1	0	0	0	 No Tax	 exclusive														no_image.png	standard
+9D	Big Key		BK	1	0	0	0	 No Tax	 exclusive														no_image.png	standard
+9E	កន្លាស់ញ៉ូម		345	1	0	0	0	 No Tax	 exclusive														no_image.png	standard
+9F	កន្លាស់ដែក		34	1	0	0	0	 No Tax	 exclusive														no_image.png	standard
